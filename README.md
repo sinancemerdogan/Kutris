@@ -1,7 +1,5 @@
 # Kutris - Computer Graphics Project
 
-![Kutris Logo](link_to_logo_image)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Gameplay](#gameplay)
